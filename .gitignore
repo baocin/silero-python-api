@@ -1,0 +1,10 @@
+
+silero_venv/
+
+.vscode/
+
+__pycache__/
+
+latest_silero_models.yml
+
+models/en_v1_jit.model
