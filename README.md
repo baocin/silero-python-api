@@ -1,5 +1,7 @@
 # Silero Speech to Text API
 
+### All ML credit goes to the amazing work by snakers4 @ https://github.com/snakers4/silero-models
+
 To get up and running:
 1. Download https://silero-models.ams3.cdn.digitaloceanspaces.com/models/en/en_v1_jit.model and put it in models/ directory. 
 2. `python3 -m venv ./silero_venv`
